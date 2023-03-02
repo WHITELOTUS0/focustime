@@ -1,6 +1,6 @@
 # Sample Snack app
 
-# How it looks like
+## How it looks like
 
 ![start](assets/start.png)
 
